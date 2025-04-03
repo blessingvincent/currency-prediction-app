@@ -33,7 +33,6 @@ grpcio==1.54.2
 h5py==3.9.0
 html5lib==1.1
 idna==3.4
-importlib-metadata==6.7.0
 ipykernel==6.23.2
 ipython==8.14.0
 jax==0.4.12
@@ -45,9 +44,7 @@ jupyter_client==8.2.0
 jupyter_core==5.3.1
 keras
 kiwisolver==1.4.4
-libclang==16.0.0
-lightgbm==3.3.5
-lxml==4.9.2
+libclang==16.0
 
 
 MarkupSafe==2.1.3
